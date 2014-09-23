@@ -272,13 +272,13 @@ namespace BI_DB_Connector
             //check Mysql Db
             MySqlDBConnector mysqlCon = new MySqlDBConnector();
             Console.WriteLine("....MysqlDB....\n");
-            StatusWriter(postgerCon.CheckDB());
+            StatusWriter(mysqlCon.CheckDB());
             Console.WriteLine("\n------------------------------------------------------\n");
 
             //check Mssql Db
             MsSqlDBConnector mssqlCon = new MsSqlDBConnector();
             Console.WriteLine("....Mssql....\n");
-            StatusWriter(postgerCon.CheckDB());
+            StatusWriter(mssqlCon.CheckDB());
             Console.WriteLine("\n------------------------------------------------------\n");
         }
 

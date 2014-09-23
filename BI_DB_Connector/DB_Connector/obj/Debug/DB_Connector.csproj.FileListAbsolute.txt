@@ -15,3 +15,17 @@ C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connecto
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\DB_Connector.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\DB_Connector.pdb
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\Mono.Security.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\Npgsql.pdb
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\Npgsql.xml
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\de\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\es\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\fi\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\fr\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\ja\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.csprojResolveAssemblyReference.cache
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.pdb

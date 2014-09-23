@@ -17,3 +17,19 @@ C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DBDataReade
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DBDataReaders\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DBDataReaders\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DBDataReaders\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\DBDataReaders.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\DBDataReaders.pdb
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\DB_Connector.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\Mono.Security.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\DB_Connector.pdb
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\Npgsql.pdb
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\Npgsql.xml
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\de\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\es\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\fi\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\fr\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\ja\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\obj\Debug\DBDataReaders.csprojResolveAssemblyReference.cache
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\obj\Debug\DBDataReaders.dll
+E:\IsharaZone\NSBM\Projects\Git\DB_Relations_Mapper\BI_DB_Connector\DBDataReaders\obj\Debug\DBDataReaders.pdb
