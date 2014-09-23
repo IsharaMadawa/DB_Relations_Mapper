@@ -1,0 +1,17 @@
+c:\users\krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\DB_Connector.dll
+c:\users\krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\DB_Connector.pdb
+c:\users\krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.csprojResolveAssemblyReference.cache
+c:\users\krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.dll
+c:\users\krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\obj\Debug\DB_Connector.pdb
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\MongoDB.Bson.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\MongoDB.Driver.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\Npgsql.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\Mono.Security.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\Npgsql.pdb
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\Npgsql.xml
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Krish\documents\visual studio 2012\Projects\BI_DB_Connector\DB_Connector\bin\Debug\zh-CN\Npgsql.resources.dll
